@@ -6,6 +6,13 @@ $float = 1.23;
 $great = 123_456_789;
 $str = "Hello, the Perl world!";
 
+# loop
+$count = 0
+while($count < 5) {
+  print($count);
+  $count += 1;
+}
+
 # array
 @arr = (1, 2, 3);
 
