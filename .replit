@@ -1,7 +1,0 @@
-run = "perl main.pl"
-
-[nix]
-channel = "stable-22_11"
-
-[deployment]
-run = ["sh", "-c", "perl main.pl"]
