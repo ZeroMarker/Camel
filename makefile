@@ -1,0 +1,2 @@
+run:
+	perl hello.perl
